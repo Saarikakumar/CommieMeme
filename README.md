@@ -3,5 +3,4 @@ Hack The Evening Away's Project - uses Reddit API to retrieve the newest memes f
 
 #Requirements
 
-• Python 2.7
-• Flask Web Framework
+• Python 2.7, Flask Web Framework
